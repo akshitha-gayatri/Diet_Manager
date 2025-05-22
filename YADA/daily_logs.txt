@@ -1,0 +1,4 @@
+2025-03-29|White Rice|1.0
+2025-03-28|Spinach|1.0
+2025-03-28|Peanut Butter|1.0
+2025-03-28|White Rice|2.0

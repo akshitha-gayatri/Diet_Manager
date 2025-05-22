@@ -1,0 +1,14 @@
+BASIC:Apple:fruit,sweet,snack:1 medium (182g):95.0:0.5:25.0:0.3
+BASIC:Banana:fruit,sweet,snack:1 medium (118g):105.0:1.3:27.0:0.4
+BASIC:Chicken Breast:meat,protein,dinner:1 breast (172g):165.0:31.0:0.0:3.6
+BASIC:White Rice:grain,carb,dinner:1 cup cooked (186g):200.0:4.0:45.0:0.4
+BASIC:Whole Wheat Bread:grain,carb,bread,breakfast:1 slice (28g):80.0:4.0:12.0:1.1
+BASIC:Peanut Butter:protein,spread,breakfast:2 tbsp (32g):190.0:8.0:6.0:16.0
+BASIC:Milk 1%:dairy,drink,breakfast:1 cup (244g):102.0:8.0:12.0:2.4
+BASIC:Egg:protein,breakfast:1 large (50g):70.0:6.0:0.6:5.0
+BASIC:Cheddar Cheese:dairy,protein,snack:1 oz (28g):113.0:7.0:0.4:9.4
+BASIC:Spinach:vegetable,greens,dinner:1 cup raw (30g):7.0:0.9:1.1:0.1
+BASIC:Olive Oil:oil,fat,cooking:1 tbsp (14g):119.0:0.0:0.0:14.0
+BASIC:Salmon:fish,protein,dinner:3 oz (85g):206.0:22.0:0.0:13.0
+COMPOSITE:Peanut Butter Sandwich:sandwich,lunch,peanut butter:2 slices bread, 1 serving peanut butter:Whole Wheat Bread=2.0:Peanut Butter=1.0
+COMPOSITE:Scrambled Eggs with Cheese:breakfast,eggs,protein:2 eggs, 1/2 serving cheese, 1/4 serving olive oil:Olive Oil=0.25:Cheddar Cheese=0.5:Egg=2.0
