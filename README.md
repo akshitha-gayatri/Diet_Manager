@@ -31,7 +31,7 @@ or [Download ZIP](https://github.com/akshitha-gayatri/Diet_Manager)
 
 ---
 
-## Key Features to Test
+## Key Features
 
 ### A. Food Database
 
